@@ -70,10 +70,10 @@ let students = [
     linkedin: "https://www.linkedin.com/in/kaaliyahgray-b03281237",
     email: "kgray@appdev.yearup.org",
     nickname: "leetheMrE",
-    imageurl: "https://fakeimg.pl/600x400?text=leetheMrE",
+    imageurl: "https://fakeimg.pl/600x400/174513/52ab6b?text=the+GOAT&font=bebas",
     gender: "female",
     xp: 0,
-    currentlyWorkingOn: "Page nr",
+    currentlyWorkingOn: "Page 31",
   },
   {
     name: "Kadiatou Barry (Mac)",
