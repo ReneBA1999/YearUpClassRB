@@ -166,7 +166,7 @@ let students = [
     linkedin: "https://www.linkedin.com/in/rene-banuelos-1881b52a2",
     email: "rbanuelos@appdev.yearup.org",
     nickname: "Cyber Samurai",
-    imageurl: "https://fakeimg.pl/600x400?text=Cyber%20Samurai",
+    imageurl: "https://fakeimg.pl/400x600/120707/40b2eb?text=Rene+B",
     gender: "male",
     xp: 0,
     currentlyWorkingOn: "Page nr",
