@@ -142,10 +142,10 @@ let students = [
     linkedin: "https://www.linkedin.com/in/moncerrat-lua-salas/",
     email: "mluasalas@appdev.yearup.org",
     nickname: "Monce",
-    imageurl: "https://fakeimg.pl/600x400?text=Monce",
+    imageurl: "https://fakeimg.pl/600x400/fc8dd7/fad2e8?text=monce+so+swag",
     gender: "female",
     xp: 0,
-    currentlyWorkingOn: "Page nr",
+    currentlyWorkingOn: "Page 32",
   },
   {
     name: "Niran Abdulqader",
