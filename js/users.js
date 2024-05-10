@@ -219,4 +219,16 @@ let students = [
     xp: 0,
     currentlyWorkingOn: "Page nr",
   },
+  {
+    name: "Andrea Ceballos",
+    group: "App Dev Team",
+    github: "https://github.com/iraryc",
+    linkedin: "https://www.linkedin.com/in/andrea-irary/",
+    email: "iraryc@gmail.com",
+    nickname: "Kung Fu Koder",
+    imageurl: "https://fakeimg.pl/600x400/c97d7d/e7e5e8?text=Andrea&font=lobster",
+    gender: "Female",
+    xp: 0,
+    currentlyWorkingOn: "Page 48",
+  },
 ];
