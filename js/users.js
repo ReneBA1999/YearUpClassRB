@@ -118,10 +118,10 @@ let students = [
     linkedin: "https://www.linkedin.com/in/leslie-alvarado-connect/",
     email: "lalvarado@appdev.yearup.org",
     nickname: "The ScriptSiren",
-    imageurl: "https://fakeimg.pl/600x400?text=The%20ScriptSiren",
+    imageurl: "https://fakeimg.pl/600x400/aaddfa/197dff?text=Leslie+A&font=lobster",
     gender: "female",
     xp: 0,
-    currentlyWorkingOn: "Page nr",
+    currentlyWorkingOn: 37,
   },
   {
     name: "Maximo Mayo",
