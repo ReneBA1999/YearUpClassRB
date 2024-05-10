@@ -178,10 +178,10 @@ let students = [
     linkedin: "https://www.linkedin.com/in/uriel-delgado-3a49622bb/",
     email: "udelgado@appdev.yearup.org",
     nickname: "YaBoiUri",
-    imageurl: "https://fakeimg.pl/600x400?text=YaBoiUri",
+    imageurl: "https://fakeimg.pl/600x400/2ac458/c942c7?text=This+is+Uriel's+image.",
     gender: "male",
     xp: 0,
-    currentlyWorkingOn: "Page nr",
+    currentlyWorkingOn: 30,
   },
   {
     name: "Victor Castaneda",
