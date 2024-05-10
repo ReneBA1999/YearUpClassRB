@@ -85,7 +85,7 @@ let students = [
     imageurl: "https://fakeimg.pl/600x400?text=the%20connoisseur",
     gender: "female",
     xp: 0,
-    currentlyWorkingOn: "Page nr",
+    currentlyWorkingOn: 36,
   },
   {
     name: "Kayla Hanifen (Mac)",
