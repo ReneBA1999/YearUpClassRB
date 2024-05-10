@@ -74,6 +74,7 @@ let students = [
     gender: "female",
     xp: 0,
     currentlyWorkingOn: "Page 31",
+    personalWebpage: "http://127.0.0.1:5500/kaaliyah.html"
   },
   {
     name: "Kadiatou Barry (Mac)",
