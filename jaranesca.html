@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +10,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-
 </head>
 
 <body onload="setup()">
@@ -26,8 +26,10 @@
                         <a class="nav-link active" aria-current="page" href="home.html">Home</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="jaranesca.html">Jaranesca</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="icebreaker.html">Icebreaker</a>
-
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="courses.html">Courses</a>
@@ -35,29 +37,24 @@
                     <li class="nav-item">
                         <a class="nav-link" href="contact.html">Contact Us</a>
                     </li>
-
                 </ul>
                 <div class="navbar-text">
                     <p class="mb-0">Phoenix, AZ: <span id="phoenixTime"></span></p>
                     <p class="mb-0">Netherlands: <span id="netherlandsTime"></span></p>
-
-
                 </div>
             </div>
         </div>
     </nav>
 
     <div class="container mt-4">
-        <h1 class="text-center">Year up class Phoenix <p class="mb-0">Days left: <span id="countdown"></span></p>
-        </h1>
+        <h1 class="text-center">Year up class Phoenix</h1>
         <div class="input-group mb-3">
             <input type="text" id="nameFilter" class="form-control" placeholder="Filter by Name, Nickname, or Group">
             <button class="btn btn-outline-secondary" type="button" id="searchButton">Search</button>
         </div>
         <!-- Center the button by adding 'd-flex justify-content-center' classes -->
         <div class="d-flex justify-content-center">
-            <button type="button" class="btn btn-primary me-2" onclick="generateIcebreaker()">Click me to generate an
-                icebreaker question</button>
+            <button type="button" class="btn btn-primary me-2" onclick="generateIcebreaker()">Click me to generate an icebreaker question</button>
             <button type="button" class="btn btn-primary" onclick="pickRandomStudent()">Pick Random Name</button>
         </div>
         <br>
@@ -65,7 +62,7 @@
             <p id="displayQuestion"></p>
         </div>
         <br>
-
+ 
         <section class="row" id="user-cards">
             <!-- User cards will be dynamically added here -->
         </section>
