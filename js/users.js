@@ -82,7 +82,7 @@ let students = [
     linkedin: "https://www.linkedin.com/in/kadiatou-barry-a57bb8235/",
     email: "kbarry@appdev.yearup.org",
     nickname: "the connoisseur",
-    imageurl: "https://fakeimg.pl/600x400?text=the%20connoisseur",
+    imageurl: "https://fakeimg.pl/600x400/173006/fa4b4b?text=kadi&font=lobster",
     gender: "female",
     xp: 0,
     currentlyWorkingOn: 36,
