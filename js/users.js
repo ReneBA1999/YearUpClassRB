@@ -217,7 +217,20 @@ let students = [
     imageurl: "https://fakeimg.pl/600x400?text=Mailjard%20the%20Magnificent",
     gender: "male",
     xp: 0,
-    currentlyWorkingOn: "Page nr",
+    currentlyWorkingOn: "Page nr"
+  },
+  {
+
+    name: "Daniel Solar",
+    group: "App Dev Team",
+    github: "https://github.com/1DanielSolar",
+    linkedin: "https://www.linkedin.com/in/daniel-solar-464357300/",
+    email: "dsolar@appdev.yearup.org",
+    nickname: "Not Defined",
+    imageurl: "https://fakeimg.pl/600x400?text=Not+Defined",
+    gender: "male",
+    xp: 0,
+    currentlyWorkingOn: 41
   },
   {
     name: "Andrea Ceballos",
@@ -230,5 +243,5 @@ let students = [
     gender: "Female",
     xp: 0,
     currentlyWorkingOn: "Page 48",
-  },
+  }
 ];
