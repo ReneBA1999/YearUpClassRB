@@ -45,7 +45,7 @@ let students = [
     linkedin: "https://www.linkedin.com/in/jaranesca-braker-227810253/",
     email: "jbraker@appdev.yearup.org",
     nickname: "JSJ (JavaScript Jaranesca)",
-    imageurl: "https://fakeimg.pl/600x400?text=JSJ%20(JavaScript%20Jaranesca)",
+    imageurl: "https://fakeimg.pl/600x400/ffe44c/db29db?text=Jaranesca+Braker",
     gender: "female",
     xp: 0,
     currentlyWorkingOn: "32",
