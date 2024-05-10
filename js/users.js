@@ -1,5 +1,17 @@
 let students = [
   {
+    name: "Brett Spokes",
+    group: "App Dev Team",
+    github: "https://github.com/BrettSpokes",
+    linkedin: "https://www.linkedin.com/in/brett-spokes-8b758b29b/",
+    email: "bspokes@appdev.yearup.org",
+    nickname: "Any Key",
+    imageurl: "https://media.licdn.com/dms/image/D4E03AQHsvMOXofd4eg/profile-displayphoto-shrink_800_800/0/1701278215042?e=1720656000&v=beta&t=W-I_I4aKUyVjcXNKc0lfkrP7ftWPD-fACwEE1NqLUlw",
+    gender: "male",
+    xp: 0,
+    currentlyWorkingOn: 75
+  },
+  {
     name: "Alfi Ali",
     group: "App Dev Team",
     github: "https://github.com/ALFI-ALI",
@@ -10,7 +22,7 @@ let students = [
     gender: "male",
     devices: "Windows",
     xp: 0,
-    currentlyWorkingOn: 31,
+    currentlyWorkingOn: 31
   },
   {
     name: "Abdikadir Samatar",
