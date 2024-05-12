@@ -169,7 +169,6 @@ let students = [
     nickname: "Cyber Samurai",
     imageurl: "https://fakeimg.pl/400x400/120707/40b2eb?text=Rene+B",
     gender: "male",
-    web:"",
     web: "rene.html",
     xp: 0,
     currentlyWorkingOn: "Page 32",
